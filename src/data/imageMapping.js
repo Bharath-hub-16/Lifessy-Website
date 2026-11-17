@@ -1,0 +1,28 @@
+// Replace each null value with a path under /public/assets when official files arrive.
+export const imageMapping = {
+  logo: '/assets/logo/lifessy-logo.jpeg',
+  products: {
+    'Himalayan Life Seabuckthorn Juice': '/assets/products/brochure/himalayan-life-seabuckthorn-juice.png',
+    'Magnetic Care Kit (Gents)': '/assets/products/brochure/magnetic-care-kit-gents.png',
+    'Magnetic Care Kit (Ladies)': '/assets/products/brochure/magnetic-care-kit-ladies.png',
+    'Nithya Sanjeevini Juice': '/assets/products/brochure/nithya-sanjeevini-juice.png',
+    'Daily Fresh Sanitary Napkin': '/assets/products/brochure/daily-fresh-sanitary-napkin.png',
+    'Marine Collagen Powder': '/assets/products/brochure/marine-collagen-powder.png',
+    'Foot Patch': '/assets/products/brochure/foot-patch.png',
+    'Spirulina & Shatavari Capsules': '/assets/products/brochure/spirulina-shatavari-capsules.png',
+    'Red Ganoderma Coffee': '/assets/products/brochure/red-ganoderma-coffee.png',
+    'Glamour Kit': '/assets/products/brochure/glamour-kit.png',
+    'Daily Care Kit': '/assets/products/brochure/daily-care-kit.png',
+    'Anti Diabetic Juice': '/assets/products/brochure/anti-diabetic-juice.png',
+    'Miracle Noni, Healthy Heart & Digestive Juice': '/assets/products/brochure/miracle-noni-healthy-heart-digestive-juice.png',
+    'Gas Safety': '/assets/products/brochure/gas-safety.png',
+  },
+  bikes: '/assets/bikes/brochure-bike.jpeg',
+  scooters: '/assets/bikes/brochure-bike.jpeg',
+  tv43: '/assets/tv/brochure-tv-43.jpeg',
+  tv75: '/assets/tv/brochure-tv-75.jpeg',
+  iphones: '/assets/iphones/brochure-iphone.jpeg',
+  cars: '/assets/cars/brochure-car.jpeg',
+  house: '/assets/house/brochure-house.jpeg',
+  icons: {},
+};

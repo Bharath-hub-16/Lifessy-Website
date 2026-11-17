@@ -1,0 +1,20 @@
+:root {
+  --navy: #0a1f50;
+  --navy-dark: #030817;
+  --royal: #1a3a8c;
+  --gold: #ddb23d;
+  --gold-light: #f2d480;
+  --gold-muted: #a88c43;
+  --white: #ffffff;
+  --panel: #0b2051;
+  --panel-deep: #050b22;
+  --line: #ddb23d;
+  --soft-white: #c9d3ec;
+}
+
+@font-face { font-family: 'Poppins PDF'; src: url('/assets/fonts/poppins-light.ttf') format('truetype'); font-style: normal; font-weight: 300; font-display: swap; }
+@font-face { font-family: 'Poppins PDF'; src: url('/assets/fonts/poppins-regular.ttf') format('truetype'); font-style: normal; font-weight: 400; font-display: swap; }
+@font-face { font-family: 'Poppins PDF'; src: url('/assets/fonts/poppins-medium.ttf') format('truetype'); font-style: normal; font-weight: 500; font-display: swap; }
+@font-face { font-family: 'Poppins PDF'; src: url('/assets/fonts/poppins-bold.ttf') format('truetype'); font-style: normal; font-weight: 700; font-display: swap; }
+@font-face { font-family: 'DejaVu Serif PDF'; src: url('/assets/fonts/dejavu-serif-bold.ttf') format('truetype'); font-style: normal; font-weight: 700; font-display: swap; }
+@font-face { font-family: 'DejaVu Serif PDF'; src: url('/assets/fonts/dejavu-serif-bold-italic.ttf') format('truetype'); font-style: italic; font-weight: 700; font-display: swap; }
